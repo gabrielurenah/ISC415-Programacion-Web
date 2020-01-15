@@ -1,0 +1,1 @@
+web: java -jar build/libs/isc415-crud.jar
